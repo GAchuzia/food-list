@@ -1,2 +1,3 @@
-# food-list
-List foods until failure
+# LUF (List Until Failure)
+
+List things until failure
