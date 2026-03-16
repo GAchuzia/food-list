@@ -1,2 +1,2 @@
-# food-it
+# food-list
 List things until failure
