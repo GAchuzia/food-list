@@ -1,3 +1,3 @@
-# LUF (List Until Failure)
+# LFUF (List Foods Until Failure)
 
-List things until failure
+List foods till you can't!
