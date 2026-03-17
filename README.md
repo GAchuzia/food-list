@@ -1,3 +1,3 @@
-# LFUF (List Foods Until Failure)
+# Food List
 
 List foods till you can't!
