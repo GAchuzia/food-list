@@ -1,5 +1,6 @@
 __pycache__/
 *.py[cod]
 .pytest_cache/
-.foodenv/
+*foodenv/
 .env
+*.egg-info/
